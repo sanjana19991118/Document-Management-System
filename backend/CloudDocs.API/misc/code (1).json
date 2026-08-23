@@ -1,0 +1,24 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=clouddocs_db;Username=postgres;Password=your_password_here"
+  },
+  "AWS": {
+    "Region": "us-east-1",
+    "S3": {
+      "BucketName": "your-app-upload-bucket-name"
+    }
+  },
+  "Cors": {
+    "AllowedOrigins": [
+      "http://localhost:5173",
+      "http://localhost:3000"
+    ]
+  }
+}

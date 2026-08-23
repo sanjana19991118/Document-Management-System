@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudDocs.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f47b28db24322c5e9f18f2103ad6dbd59df78fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f63d4c0f667ed78b3ea425a8b9768a785174882")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudDocs.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudDocs.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
