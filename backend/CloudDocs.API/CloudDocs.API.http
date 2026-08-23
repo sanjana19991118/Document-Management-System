@@ -1,0 +1,6 @@
+@CloudDocs.API_HostAddress = http://localhost:5196
+
+GET {{CloudDocs.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
