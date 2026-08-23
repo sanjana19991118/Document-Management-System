@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "XG81BxxBwyc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SANJANA\\Document-Management-System\\backend\\CloudDocs.API\\CloudDocs.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANJANA\\.nuget\\packages\\awssdk.core\\4.0.102\\awssdk.core.4.0.102.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\awssdk.s3\\4.0.102.3\\awssdk.s3.4.0.102.3.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.4\\microsoft.entityframeworkcore.10.0.4.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.4\\microsoft.entityframeworkcore.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.4\\microsoft.entityframeworkcore.analyzers.10.0.4.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.4\\microsoft.entityframeworkcore.relational.10.0.4.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\SANJANA\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.3\\npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
